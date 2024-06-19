@@ -1,0 +1,1 @@
+call python tools/inference.py --inputs data/mosquito/MyInference/culex.jpg --model configs/mosquito_model/mask-rcnn_r50-caffe_fpn_ms-poly-1x_mosquito.py --weights work_dirs/mask-rcnn_r50-caffe_fpn_ms-poly-1x_mosquito/epoch_12.pth
