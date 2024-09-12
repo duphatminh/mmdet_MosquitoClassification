@@ -1,9 +1,6 @@
 .venv
 .idea/
 
-data
 work_dirs
-
-mmdetection
 
 test/mark_rcnn_mosquito.pth
